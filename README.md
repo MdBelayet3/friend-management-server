@@ -27,5 +27,3 @@ It helps to understand how backend servers work and how data is handled using a 
 - dotenv (if used)
 
 ---
-
-## 📂 API Endpoints
