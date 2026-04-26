@@ -29,5 +29,3 @@ It helps to understand how backend servers work and how data is handled using a 
 ---
 
 ## 📂 API Endpoints
-
-### 🔹 Get all users
