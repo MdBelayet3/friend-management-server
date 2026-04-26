@@ -1,10 +1,10 @@
-# 👥 Friend Management Server
+# Friend Management Server
 
 A simple **REST API server** for managing friends/users. This project is built as a **practice backend project** while learning Node.js, Express.js, and MongoDB.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 This is a basic CRUD (Create, Read, Update, Delete) server where you can:
 
@@ -18,7 +18,7 @@ It helps to understand how backend servers work and how data is handled using a 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Node.js
 - Express.js
